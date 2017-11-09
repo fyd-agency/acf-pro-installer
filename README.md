@@ -1,9 +1,17 @@
+# This is fork
+
+This is fork of https://github.com/PhilippBaschke/acf-pro-installer
+
+Due to issues braking builds I had to fork project and apply community fixes. I intend to stop adding fixes to this project as soon as original author will include community patches.
+
+Thanks Philipp Baschke for developing this amazing library as it saved loads of developers hours of work. 
+
 # ACF PRO Installer
 
-[![Packagist](https://img.shields.io/packagist/v/philippbaschke/acf-pro-installer.svg?maxAge=3600)](https://packagist.org/packages/philippbaschke/acf-pro-installer)
-[![Packagist](https://img.shields.io/packagist/l/philippbaschke/acf-pro-installer.svg?maxAge=2592000)](https://github.com/PhilippBaschke/acf-pro-installer/blob/master/LICENSE)
-[![Travis](https://img.shields.io/travis/PhilippBaschke/acf-pro-installer.svg?maxAge=3600)](https://travis-ci.org/PhilippBaschke/acf-pro-installer)
-[![Coveralls](https://img.shields.io/coveralls/PhilippBaschke/acf-pro-installer.svg?maxAge=3600)](https://coveralls.io/github/PhilippBaschke/acf-pro-installer)
+[![Packagist](https://img.shields.io/packagist/v/iff-studio/acf-pro-installer.svg?maxAge=3600)](https://packagist.org/packages/iff-studio/acf-pro-installer)
+[![Packagist](https://img.shields.io/packagist/l/iff-studio/acf-pro-installer.svg?maxAge=2592000)](https://github.com/iff-studio/acf-pro-installer/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/iff-studio/acf-pro-installer.svg?maxAge=3600)](https://travis-ci.org/iff-studio/acf-pro-installer)
+[![Coveralls](https://img.shields.io/coveralls/iff-studio/acf-pro-installer.svg?maxAge=3600)](https://coveralls.io/github/iff-studio/acf-pro-installer)
 
 A composer plugin that makes installing [ACF PRO] with [composer] easier. 
 
@@ -29,7 +37,7 @@ It reads your :key: ACF PRO key from the **environment** or a **.env file**.
       "url": "https://connect.advancedcustomfields.com/index.php?p=pro&a=download"
     },
     "require": {
-      "philippbaschke/acf-pro-installer": "^1.0",
+      "iff-studio/acf-pro-installer": "^1.0",
       "composer/installers": "^1.0"
     }
   }
