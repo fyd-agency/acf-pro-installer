@@ -1,5 +1,5 @@
 {
-  "name": "iff-studio/acf-pro-installer",
+  "name": "fyd-agency/acf-pro-installer",
   "description": "An install helper for Advanced Custom Fields PRO. Forked from https://github.com/PhilippBaschke/acf-pro-installer",
   "type": "composer-plugin",
   "license": "MIT",
