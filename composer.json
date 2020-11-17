@@ -14,7 +14,7 @@
   ],
   "require": {
     "php": ">=7.2",
-    "composer-plugin-api": "^2.0"
+    "composer-plugin-api": "^2.0",
     "vlucas/phpdotenv": "^2.2"
   },
   "require-dev": {
